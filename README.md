@@ -53,7 +53,18 @@ Estou entusiasmado em contribuir para projetos desafiadores no campo da tecnolog
 # 🧠 Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,js,ts,postgres,git,docker" />
+  <img title="React" src="https://skillicons.dev/icons?i=react" />
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
