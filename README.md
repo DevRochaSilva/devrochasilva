@@ -1,84 +1,73 @@
-<!-- HERO STARTUP -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1f6feb&height=220&section=header&text=EDUCAFLUX&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1f6feb&height=200&section=header&text=Rodrigo%20Rocha%20da%20Silva&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="SUA_LOGO_AQUI" width="140" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Java+%7C+TypeScript;Construindo+Sistemas+Escaláveis;Focado+em+UX+e+Performance" />
 </p>
 
+<!-- BADGES -->
 <p align="center">
-  <b>Plataforma SaaS de Gestão Escolar Moderna</b><br/>
-  Simples • Escalável • Inteligente
-</p>
-
----
-
-<!-- TAGLINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2ea043&size=22&center=true&vCenter=true&width=700&lines=Gestão+Escolar+de+Nova+Geração;Sistema+Completo+Educacional;Controle+Financeiro+e+Acadêmico;UX+Moderna+e+Alta+Performance" />
-</p>
-
----
-
-# 🧠 Sobre o Projeto
-
-O **Educaflux** é uma plataforma SaaS desenvolvida para transformar a gestão escolar, centralizando processos acadêmicos, financeiros e administrativos em um único sistema moderno e escalável.
-
-💡 Focado em usabilidade, performance e crescimento contínuo.
-
----
-
-# 🎯 Problema que resolve
-
-- Processos manuais e descentralizados
-- Falta de visão financeira clara
-- Dificuldade no controle de alunos e frequência
-- Sistemas antigos e pouco intuitivos
-
----
-
-# 🚀 Solução
-
-Educaflux entrega:
-
-✔ Gestão completa de alunos  
-✔ Controle financeiro inteligente  
-✔ Dashboard com métricas em tempo real  
-✔ Emissão de documentos automatizados  
-✔ Interface moderna e intuitiva  
-
----
-
-# 🖥️ Mockup do Sistema
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevRochaSilva&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-> 🔥 Aqui você pode substituir depois por prints reais do sistema
-
----
-
-# ⚙️ Arquitetura
-
-- Frontend: React + Vite
-- Backend: Java (API REST)
-- Banco: PostgreSQL
-- Integrações: API multipart / autenticação / JWT
-- Estrutura preparada para multi-tenant
-
----
-
-# 🧠 Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,ts,js,postgres,docker,git" />
+  <a href="https://github.com/DevRochaSilva">
+    <img src="https://img.shields.io/github/followers/DevRochaSilva?label=Seguidores&style=for-the-badge&color=1f6feb&logo=github" />
+  </a>
+  <a href="https://github.com/DevRochaSilva?tab=repositories">
+    <img src="https://img.shields.io/github/stars/DevRochaSilva?label=Estrelas&style=for-the-badge&color=2ea043&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DevRochaSilva&style=for-the-badge&color=0A66C2" />
 </p>
 
 ---
 
-# 📊 Dados do Projeto
+# 👨‍💻 Sobre mim
+
+Sou um profissional em tecnologia e estou continuamente me aprimorando na área de programação.
+
+Como empreendedor, obtive êxito ao gerenciar com eficiência a B.Rocker Hamburgueria por um período de 2 anos e 10 meses.
+
+Anteriormente, acumulei valiosa experiência como Analista de Suporte Sênior, onde atuei por 6 anos e 8 meses.
+
+Demonstro um firme compromisso com o constante desenvolvimento das minhas habilidades e conhecimentos na área de tecnologia.
+
+Estou entusiasmado em contribuir para projetos desafiadores no campo da tecnologia e negócios.
+
+🚀 Atualmente focado em evolução contínua e construção de soluções.
+
+---
+
+# ⭐ Apoie meu trabalho
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐%20ESTRELAS-965-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥%20SEGUIDORES-3.5K-1f6feb?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Se meus projetos te ajudaram, considere deixar uma ⭐ e me seguir!
+</p>
+
+---
+
+# 🧠 Stack & Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,java,js,ts,postgres,git,docker" />
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevRochaSilva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRochaSilva&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Linguagens mais usadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRochaSilva&layout=donut&theme=tokyonight&hide_border=true" />
@@ -86,33 +75,34 @@ Educaflux entrega:
 
 ---
 
-# ⭐ Engajamento
+# 🏆 Destaques
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/DevRochaSilva?style=for-the-badge&color=2ea043" />
-  <img src="https://img.shields.io/github/followers/DevRochaSilva?style=for-the-badge&color=1f6feb" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevRochaSilva&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 👨‍💻 Autor
+👉 Em evolução contínua
 
-<p align="center">
-  <b>Rodrigo Rocha da Silva</b><br/>
-  Desenvolvedor Full Stack • Criador do Educaflux
-</p>
+---
+
+# 📡 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-rocha-dasilva/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Rocha-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/DevRochaSilva">
+    <img src="https://img.shields.io/badge/GitHub-DevRochaSilva-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-# ⚡ Visão
+# ⚡ Filosofia
 
-> "Transformar a gestão educacional através de tecnologia moderna e acessível."
+> "Código limpo não é luxo, é responsabilidade."
 
 ---
 
