@@ -81,14 +81,6 @@ Estou entusiasmado em contribuir para projetos desafiadores no campo da tecnolog
 
 ---
 
-# 🚀 Projetos em destaque
-
-## 🏫 Educaflux (SaaS Gestão Escolar)
-- Sistema completo de gestão educacional
-- Controle financeiro, alunos, frequência e avaliações
-- Dashboard inteligente com métricas
-- Arquitetura escalável
-
 👉 Em evolução contínua
 
 ---
