@@ -23,11 +23,15 @@
 
 # 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com foco em construção de sistemas modernos, escaláveis e orientados à experiência do usuário.
+Sou um profissional em tecnologia  e estou continuamente me aprimorando na área de programação.
 
-Tenho experiência sólida em desenvolvimento front-end com React e aplicações robustas em backend com Java, sempre aplicando boas práticas, organização de código e arquitetura limpa.
+Como empreendedor, obtive êxito ao gerenciar com eficiência a B.Rocker Hamburgueria por um período de 2 anos e 10 meses.
 
-🚀 Atualmente focado em evolução contínua e construção de soluções SaaS completas.
+Anteriormente, acumulei valiosa experiência como Analista de Suporte Sênior, onde atuei por 6 anos e 8 meses.
+
+Demonstro um firme compromisso com o constante desenvolvimento das minhas habilidades e conhecimentos na área de tecnologia.
+
+Estou entusiasmado em contribuir para projetos desafiadores no campo da tecnologia e negócios.
 
 ---
 
