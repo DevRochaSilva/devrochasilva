@@ -40,11 +40,6 @@ Estou entusiasmado em contribuir para projetos desafiadores no campo da tecnolog
 # ⭐ Apoie meu trabalho
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐%20ESTRELAS-965-2ea043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/👥%20SEGUIDORES-3.5K-1f6feb?style=for-the-badge" />
-</p>
-
-<p align="center">
   Se meus projetos te ajudaram, considere deixar uma ⭐ e me seguir!
 </p>
 
