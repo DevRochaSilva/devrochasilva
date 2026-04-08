@@ -1,68 +1,67 @@
-<h1 align="center">🚀 Rodrigo Rocha da Silva</h1>
-<h3 align="center">Desenvolvedor Full Stack | React • Java • TypeScript • SQL</h3>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1f6feb&height=200&section=header&text=Rodrigo%20Rocha%20da%20Silva&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Java+%7C+TypeScript;Construindo+Sistemas+Escaláveis;Focado+em+UX+e+Performance" />
+</p>
+
+<!-- BADGES -->
 <p align="center">
   <a href="https://github.com/DevRochaSilva">
-    <img src="https://img.shields.io/github/followers/DevRochaSilva?label=Seguidores&style=for-the-badge&color=0A66C2&logo=github" />
+    <img src="https://img.shields.io/github/followers/DevRochaSilva?label=Seguidores&style=for-the-badge&color=1f6feb&logo=github" />
   </a>
   <a href="https://github.com/DevRochaSilva?tab=repositories">
-    <img src="https://img.shields.io/github/stars/DevRochaSilva?label=Estrelas&style=for-the-badge&color=1f6feb&logo=github" />
+    <img src="https://img.shields.io/github/stars/DevRochaSilva?label=Estrelas&style=for-the-badge&color=2ea043&logo=github" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=DevRochaSilva&style=for-the-badge&color=0A66C2" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-Sou um profissional em tecnologia da informação e estou continuamente me aprimorando na área de programação.
+Sou desenvolvedor Full Stack com foco em construção de sistemas modernos, escaláveis e orientados à experiência do usuário.
 
-Como empreendedor, obtive êxito ao gerenciar com eficiência a B.Rocker Hamburgueria por um período de 2 anos e 10 meses.
+Tenho experiência sólida em desenvolvimento front-end com React e aplicações robustas em backend com Java, sempre aplicando boas práticas, organização de código e arquitetura limpa.
 
-Anteriormente, acumulei valiosa experiência como Analista de Suporte Sênior, onde atuei por 6 anos e 8 meses.
-
-Demonstro um firme compromisso com o constante desenvolvimento das minhas habilidades e conhecimentos na área de tecnologia.
-
-Estou entusiasmado em contribuir para projetos desafiadores no campo da tecnologia e negócios.
-
-
-💡 Sempre buscando evoluir, aplicar boas práticas e criar soluções que realmente agreguem valor.
+🚀 Atualmente focado em evolução contínua e construção de soluções SaaS completas.
 
 ---
 
-## ⭐ Apoie meu trabalho
-
-Se curtir meus projetos, considere:
+# ⭐ Apoie meu trabalho
 
 <p align="center">
-  ⭐ Dar uma estrela nos repositórios  
-  👥 Seguir meu perfil no GitHub  
+  <img src="https://img.shields.io/badge/⭐%20ESTRELAS-965-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥%20SEGUIDORES-3.5K-1f6feb?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESTRELAS-965-2ea043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SEGUIDORES-3.5K-1f6feb?style=for-the-badge" />
+  Se meus projetos te ajudaram, considere deixar uma ⭐ e me seguir!
 </p>
 
 ---
 
-## 🧠 Tecnologias & Stack
+# 🧠 Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,js,ts,postgres,sql" />
+  <img src="https://skillicons.dev/icons?i=react,java,js,ts,postgres,git,docker" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevRochaSilva&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRochaSilva&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevRochaSilva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRochaSilva&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Linguagens mais usadas
+# 📈 Linguagens mais usadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRochaSilva&layout=donut&theme=tokyonight&hide_border=true" />
@@ -70,7 +69,27 @@ Se curtir meus projetos, considere:
 
 ---
 
-## 🔗 Conecte-se comigo
+# 🏆 Destaques
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevRochaSilva&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 🚀 Projetos em destaque
+
+## 🏫 Educaflux (SaaS Gestão Escolar)
+- Sistema completo de gestão educacional
+- Controle financeiro, alunos, frequência e avaliações
+- Dashboard inteligente com métricas
+- Arquitetura escalável
+
+👉 Em evolução contínua
+
+---
+
+# 📡 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-rocha-dasilva/">
@@ -83,12 +102,13 @@ Se curtir meus projetos, considere:
 
 ---
 
-## 🧩 Projetos em destaque
+# ⚡ Filosofia
 
-🚧 Em constante evolução...
+> "Código limpo não é luxo, é responsabilidade."
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
-  💻 Feito com dedicação por Rodrigo Rocha
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0A192F&height=120&section=footer"/>
 </p>
