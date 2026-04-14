@@ -81,14 +81,6 @@ Estou entusiasmado em contribuir para projetos desafiadores no campo da tecnolog
 
 ---
 
-# 🏆 Destaques
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevRochaSilva&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 👉 Em evolução contínua
 
 ---
